@@ -111,8 +111,17 @@ const styles = StyleSheet.create({
   },
 });
 
-var value_1 = 50;
+let value_1 = 50;
 var value_2 = 50;
-var value_3 = 50;
+let value_3 = 50;
+var value_4 = 50;
+let value_5 = 50;
+var value_6 = 50;
+let value_7 = 50;
+var value_8 = 50;
+let value_9 = 50;
+var value_10 = 50;
+let value_11 = 50;
+var value_12 = 50;
 
 export default App;
