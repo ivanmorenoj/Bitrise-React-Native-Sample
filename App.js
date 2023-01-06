@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     color: Colors.dark,
   },
   highlight: {
-    fontWeight: '700',
+      fontWeight: '700',
   },
   footer: {
     color: Colors.dark,
@@ -110,5 +110,9 @@ const styles = StyleSheet.create({
     textAlign: 'right',
   },
 });
+
+var value_1 = 50;
+var value_2 = 50;
+var value_3 = 50;
 
 export default App;
